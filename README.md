@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **🤝 Full-stack web app projects**
 
-- 👨‍💻 All of my projects are available at [🌐 github.com/Ball-SE](🌐 github.com/Ball-SE)
+- 👨‍💻 All of my projects are available at  **github.com/Ball-SE**
 
 - 📫 How to reach me **📧 se56160411@gmail.com**
 
