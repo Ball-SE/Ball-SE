@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ball</h1>
 <h3 align="center">A passionate Full-Stack Developer specializing in modern web technologies.</h3>
 
+- 👯 I’m looking to collaborate on **🤝 Full-stack web app projects**
+
+- 👨‍💻 All of my projects are available at [🌐 github.com/Ball-SE](🌐 github.com/Ball-SE)
+
+- 📫 How to reach me **📧 se56160411@gmail.com**
+
+- ⚡ Fun fact **⚡ “I code better at midnight 🌙 and I love red pandas 🐼❤️”**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pharnuwat-phetampai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pharnuwat-phetampai/" height="30" width="40" /></a>
